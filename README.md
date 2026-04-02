@@ -1,3 +1,14 @@
+![MVP Status](https://img.shields.io/badge/Status-MVP%20en%20cours-yellow)
+
+## 🚧 Statut du projet
+
+Nexium Idle est actuellement en phase **MVP (Minimum Viable Product)**.  
+🎯 Objectif : créer une première version jouable, simple et fun, pour poser les bases du jeu.
+
+Budget actuel : **0€** — collaboration **bénévole** pour la phase MVP.  
+Vision long terme : jeu complet + éventuelle intégration Web3 (plus tard, pas dans le MVP).
+
+
 # ⚡ Nexium Idle — by Nexium Labs  
 ### 🪐 Idle Game 2D futuriste développé avec Godot
 
