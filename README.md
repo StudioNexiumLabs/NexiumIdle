@@ -5,12 +5,12 @@
 Nexium Idle est actuellement en phase **MVP (Minimum Viable Product)**.  
 🎯 Objectif : créer une première version jouable, simple et fun, pour poser les bases du jeu.
 
-Budget actuel : **0€** — collaboration **bénévole** pour la phase MVP.  
+Budget actuel : **0€** - collaboration **bénévole** pour la phase MVP.  
 Vision long terme : jeu complet + éventuelle intégration Web3 (plus tard, pas dans le MVP).
 
 ---
 
-## ⚡ Nexium Idle — by Nexium Labs
+## ⚡ Nexium Idle - by Nexium Labs
 
 🪐 Idle Game 2D futuriste développé avec Godot
 
@@ -95,7 +95,7 @@ Cette transparence est la base de la collaboration.
 ## 🦾 Recrutement Godot
 
 Nous recherchons un développeur Godot motivé, **débutant ou junior accepté**.  
-➡️ Formulaire de candidature : https://forms.gle/WZLuUP4zvPE9ud8E6  
+➡️ Formulaire de candidature : https://forms.gle/ahuN1GurKKiLUyKfA 
 
 **Ce que nous offrons :**
 - Une vision claire  
@@ -132,7 +132,7 @@ Une fois le MVP validé : ajout de contenu, polish, features avancées.
 
 ---
 
-## 🧑‍🚀 À propos de Nexium Labs
+## 🧑‍🚀 À propos de Studio Nexium Labs
 
 Nexium Labs est un **studio indé en construction**, orienté vers :
 
